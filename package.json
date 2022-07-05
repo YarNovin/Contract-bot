@@ -1,0 +1,23 @@
+{
+  "name": "coderun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tgsnake/step": "^2.2.0",
+    "@types/node": "^17.0.30",
+    "jalali-moment": "^3.3.11",
+    "pdfkit": "^0.13.0",
+    "telegram": "^2.7.12",
+    "textbox-for-pdfkit": "^0.2.1",
+    "tgsnake": "^2.0.0-beta.21"
+  },
+  "devDependencies": {
+    "@types/pdfkit": "^0.12.6"
+  }
+}
